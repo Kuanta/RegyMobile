@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RegyMobile</string>
+    <string name="prefs_name">com.example.regy.prefsName</string>
+    <string name="token_prefs_key">jwtToken</string>
+    <string name="server_url">https://regy.herokuapp.com</string>
+    <string name="main_page_text">Regy</string>
+</resources>
